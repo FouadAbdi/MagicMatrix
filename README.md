@@ -1,2 +1,5 @@
 # MagicMatrix
-An Algorithm To Solve N*N Putting Numbers Puzzels
+A Recursive Algorithm To Solve N*N Putting Numbers Puzzels
+
+
+Solve Puzzle of putting numbers
