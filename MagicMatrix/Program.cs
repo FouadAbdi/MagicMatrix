@@ -149,6 +149,7 @@ namespace MagicMatrix
 
             int Level = m.Count();
 
+
             // Generate New Matrix
             for (int i = 1; i <= MatrixCellsCount; i++)
             {
@@ -166,9 +167,6 @@ namespace MagicMatrix
                     }
                 }
             }
-
-
-
         }
 
 
